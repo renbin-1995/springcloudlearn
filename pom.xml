@@ -25,6 +25,7 @@
         <module>service-feign</module>
         <module>service-ribbon</module>
         <module>service-zuul</module>
+        <module>service-miya</module>
     </modules>
 
     <properties>
